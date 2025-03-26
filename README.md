@@ -45,8 +45,8 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/adrianhajdin/award-winning-website.git
-cd award-winning-website
+git clone https://github.com/tetraethylmethane/TVC-E-Summit-25.git
+cd TVC-E-Summit-25
 ```
 
 **Installation**
@@ -390,5 +390,5 @@ export default RoundedCorners
 
 ## <a name="links">Assets</a>
 
-This project uses inspiration some assets and fonts from **[Zentry](https://zentry.com/)**
+This project uses inspiration and some assets and fonts from **[Zentry](https://zentry.com/)**
 
